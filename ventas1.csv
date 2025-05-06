@@ -1,0 +1,21 @@
+NombreCliente,IDCliente,Producto,PrecioUnitario,MetodoPago
+Carlos Gomez,C001,Audifonos,25.99,Tarjeta
+Mar­a Perez,C002,Mouse,15.5,Efectivo
+Luis Raos,C003,Teclado,30,Tarjeta
+Ana Torres,C004,Laptop,599.99,Transferencia
+Jorge Leman,C005,Monitor,120,Tarjeta
+Lucia Mendez,C006,Impresora,89.5,Efectivo
+Pedro Sanchez,C007,Tablet,220,Transferencia
+Elena Cruz,C008,Camara web,49.99,Tarjeta
+Raul Herrera,C009,Disco duro,75,Efectivo
+Carmen Ruiz,C010,Memoria USB,12,Tarjeta
+Daniela lopez,C011,Mousepad,6.99,Efectivo
+Eduardo Numez,C012,Altavoces,35,Tarjeta
+Patricia Salas,C013,Smartphone,450,Transferencia
+Hector Ramos,C014,Router,65,Efectivo
+Veronica Diaz,C015,Proyector,310,Tarjeta
+Andreas Bravo,C016,Smartwatch,129.99,Transferencia
+Claudia Medina,C017,Webcam,39.9,Efectivo
+Oscar Molina,C018,Disco SSD,110,Tarjeta
+Laura Reyes,C019,Cargador,19.99,Efectivo
+Fernando Paredes,C020,Cable HDMI,9.5,Tarjeta
